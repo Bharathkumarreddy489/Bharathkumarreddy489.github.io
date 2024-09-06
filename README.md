@@ -40,7 +40,7 @@ To view or edit the website, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AyushiAnand70047/my-portfolio.git
+   git clone https://github.com/Bharathkumarreddy489/Bharathkumarreddy489.github.io.git
    ```
 
 2. **Open `index.html` in a web browser to view the website.**:
